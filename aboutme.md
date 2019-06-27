@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Enrique Collado. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- International Relations Undergrad
+- Professional background: Worked for a Consulting firm, Investment Bank, Wealth Management and a Last Mile delivery Startup
+- Entrepreneurship: Sold 2 products My team and I developped. Currently giving maintanance to 16 small companies which happen to use our products. 
 
-What else do you need?
+My name is Enrique Collado. I have no DS experience but soon will since I'm taking courses and doing projects.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
