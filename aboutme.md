@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enrique Collado 
+title: About Me 
 subtitle: LV Data Scientist
 ---
 
