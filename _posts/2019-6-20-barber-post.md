@@ -6,3 +6,4 @@ image: /img/i%CC%81ndice.png
 
 Interesting data from barbershop consumers in México. The vast majority live in the 3 main cities of the Republic.
 Mexico city due to its populaiton density occupies the first place of consumption in beard products.
+https://medium.com/@enriquecolladof/my-1st-projecto-barber-sales-analysis-6386007ae0d7
