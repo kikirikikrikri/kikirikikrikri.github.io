@@ -4,4 +4,4 @@ subtitle: Geographic preferences
 image: /img/i%CC%81ndice.png
 ---
 
-Interesting data from barbershop consumers in México. If you are selling razors or anything regarding this market you may want to take a look to this pair of graphs and you might find an opportunity of some kind.
+Interesting data from barbershop consumers in México. 
